@@ -1,0 +1,35 @@
+oq e uma variavel?
+Variável pode ser entendida como uma classificação ou uma medida;
+uma quantidade que se altera em cada caso ou unidade de estudo.
+
+IF
+é uma construção de programação que permite tomar decisões com base em determinadas condições.
+Ajuda a controlar o fluxo do seu programa, executando diferentes blocos de código,
+dependendo de uma determinada condição ser verdadeira ou falsa.
+
+
+Float
+é um tipo de dado em programação que armazena números decimais
+e já vem integrado ao compilador
+
+Print e input 
+print() é uma função para imprimir uma mensagem específ
+ica na tela (seu conteúdo vai sempre ser 
+convertido a uma string para ser
+exibido). input() é uma função que per
+mite entrada de um usuário. O operador " + " 
+quando utilizado pode ser usado para 
+"somar" strings, com o nome de concatenação.
+
+contador
+O contador do programa, também conhecido como ponteiro de instrução ou simplesmente PC, 
+um componente fundamental 
+da Unidade Central de Processamento (CPU) 
+de um computador. 
+
+laço de repeticao
+
+Existem basicamente dois tipos de laços de repetição em Python: o laço while, usado quando não sabemos exatamente 
+quantas vezes o bloco será repetido, 
+assim será definida uma determinada condição e quando essa for atingida o bloco se encerrará; 
+e o laço for, usado quando sabemos quantas vezes o bloco será repetido, ...
